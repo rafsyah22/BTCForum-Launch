@@ -9,7 +9,11 @@
 
 ---
 
-## 🚀 Features
+## Examples:
+This is the Dev wallet I used to create all the coins: EUqxhL4k8ZAabXE7jddGMFtB4BrnjZuYy3gesMJxKXCh
+
+![image](https://github.com/user-attachments/assets/44e89ba2-7b10-413f-87d0-091ed790bd80)
+
 
 - ✅ Automatically detects launch commands from social media or community platforms
 - 🧠 Parses ticker and project name from a simple trigger message
